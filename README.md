@@ -10,39 +10,34 @@
 
 <img src="exemplo-image.png" alt="exemplo imagem">
 
-> Esse é um repositório que tem como objetivo a mineração de dados de um arquivo .csv para calcular o PIB per capita de cada região do Brasil, usando Python.
+> Esse é um repositório que tem como objetivo a mineração de dados de um arquivo CSV para calcular o PIB per capita de cada região do Brasil, usando Python.
 
-### Ajustes e melhorias
+### Funcionalidades
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto contém as seguintes funcionalidades:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Análise do arquivo CSV
+- [x] Montagem inicial do script
+- [x] Definição das etapas
+- [x] Execução
+- [x] Avaliação dos resultados
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+* Você instalou a versão mais recente de `Python`
+* Compatível com Linux e Mac
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando PIBPerCapita
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Para instalar o PIBPerCapita, siga estas etapas:
 
 Linux e macOS:
 ```
 <comando_de_instalação>
 ```
 
-Windows:
-```
-<comando_de_instalação>
-```
+
 
 ## ☕ Usando <nome_do_projeto>
 
