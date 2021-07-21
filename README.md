@@ -81,4 +81,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-[⬆ Voltar ao topo](# PIB per capita)<br>
+[⬆ Voltar ao topo](#pib-per-capita)<br>
